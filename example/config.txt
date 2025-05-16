@@ -1,0 +1,2 @@
+Prefix plugins/LOOCV/example/
+Plugin LOOCV inputfile none outputfile output.rds
